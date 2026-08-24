@@ -157,8 +157,8 @@ research : AGI Technology
       <br>Bitbucket
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/tableau" width="48" height="48" alt="Tableau" />
-      <br>Tableau
+        <img src="https://cdn.simpleicons.org/rstudioide/75AADB" width="48" height="48" alt="RStudio" />
+      <br>RStudio
     </td>
     <td align="center" width="96">
         <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
