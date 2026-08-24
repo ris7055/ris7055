@@ -1,78 +1,203 @@
-<h1 align="center">Hi, I'm Raff 👋</h1>
+<div align="center">
 
-<h3 align="center">Data Analyst & AI Automation Engineer | Building agentic AI systems for security ops and edtech</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0514,50:120a1f,100:00f0ff&height=220&section=header&text=Hi,%20I'm%20Raff%20👋&fontSize=50&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=AI%20Data%20Analyst%20%7C%20Automation%20Engineer&descAlignY=55&descColor=e0f7ff" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Data+Analyst+Intern+%40+MSP+Systems;Building+AI-SIEM+%2F+Wazuh+Infrastructure;Master's+in+Data+Science+%40+Universiti+Malaya;Building+MYTAMAN+AI+Tutor+(RAG-powered+e-learning)" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI+Data+Analyst+%40+MSP+Systems;Building+AI-SIEM+%2F+Wazuh+Infrastructure;Master's+in+Data+Science+%40+Universiti+Malaya;Automating+SOC+Workflows+with+N8N;Exploring+Agentic+AI+%26+MCP+Orchestration" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<br/>
 
----
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=0a0514"></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-00f0ff?style=for-the-badge&logo=gmail&logoColor=0a0514"></a>
+<a href="https://github.com/ris7055"><img src="https://img.shields.io/badge/GitHub-00f0ff?style=for-the-badge&logo=github&logoColor=0a0514"></a>
 
-### 🧠 About Me
+<img src="https://komarev.com/ghpvc/?username=ris7055&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="profile views"/>
 
-- 🎓 Pursuing a **Master of Data Science** at the Faculty of Computer Science and Information Technology, **Universiti Malaya**
-- 💼 **Ai Data Analyst** at **MSP Systems (M) Sdn Bhd** — working on AI-SIEM infrastructure, cloud management, and automation
-- 🔐 Building security operations tooling on **Wazuh**, **Microsoft Azure**, and **N8N**
-- 🤖 Currently building **MYTAMAN AI Tutor**, a RAG-powered e-learning platform for primary-level students in Malaysia
-- 🌱 Exploring agentic AI orchestration, MCP server architecture, and open-weight local LLM inference
-- 📍 Based in Kuala Lumpur, Malaysia
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0514,100:00f0ff&height=3&width=100%"/>
 
-### 🛠️ Tech & Tools
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/Wazuh-3AB0FF?style=for-the-badge&logo=wazuh&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+## 🧠 About Me
 
----
+</div>
 
-### 🚀 Featured Projects
+<table align="center">
+<tr>
+<td>
+
+```yaml
+name: MD Raffaul Islam
+role: AI Data Analyst @ MSP Systems (M) Sdn Bhd
+education: MSc Data Science, BCs in Ai @ Universiti Malaya
+focus: AI-SIEM infra · Agentic AI · DevOps · CyberTech
+location: Kuala Lumpur, Malaysia
+currently_exploring: MCP orchestration · vLLM inference
+research : AGI Technology
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0514,100:00f0ff&height=3&width=100%"/>
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+> Tools and technologies that I have worked with and am interested in
 
 <table>
   <tr>
-    <td width="50%">
-      <h4>🎓 MYTAMAN AI Tutor</h4>
-      <p>RAG-powered e-learning platform for primary-level students. Parents upload materials, an AI tutor personalizes lessons across summaries, quizzes, flashcards, and mind maps. Bilingual (EN/BM), multi-provider AI model router with failover.</p>
-      <p><b>Stack:</b> FastAPI · MongoDB · React · Tailwind · Docker · Azure</p>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
     </td>
-    <td width="50%">
-      <h4>🛡️ FortiSIEM Incident Response Automation</h4>
-      <p>A five-phase SOC incident response workflow built in N8N, integrating with ManageEngine Service Desk Plus for automated ticketing.</p>
-      <p><b>Stack:</b> N8N · FortiSIEM · ManageEngine</p>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Rest API
+    </td>
+          <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+      <br>JQuery
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+      <br>PostgreSQL
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
+      <br>ASP.NET
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n" />
+      <br>N8N
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/nvidia" width="48" height="48" alt="Nvidia" />
+      <br>Nvidia
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/bitbucket" width="48" height="48" alt="Bitbucket" />
+      <br>Bitbucket
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/tableau" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
+      <br>Pytest
+    </td>
+  </tr>
+ <tr>
+ </tr>
+</table>
+
+## Project currently involved: [Feature Building]
+
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">🛡️ Wazuh Incident Response Automation</h3>
+      <p align="center"><i>Five-phase SOC incident response pipeline</i></p>
+      <p align="center">An automated incident response workflow built in N8N, integrating Wazuh alerts directly with ManageEngine Service Desk Plus for hands-off ticketing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Wazuh-3AB0FF?style=flat-square&logo=wazuh&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ManageEngine-1F8ACB?style=flat-square&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0514,100:00f0ff&height=3&width=100%"/>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### ⚡ Currently exploring: agentic orchestration with MCP servers & local LLM inference
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/ris7055/ris7055/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<p align="center">
-  <i>⚡ Currently exploring: agentic orchestration with MCP servers & local LLM inference</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:120a1f,100:0a0514&height=120&section=footer" width="100%"/>
+
+</div>
